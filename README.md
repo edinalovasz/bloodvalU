@@ -3,7 +3,7 @@ BloodValU - Final Project Propulsion Academy
 Personal Notes
 
 I worked on this project with three other bootcamp students. The project lasted for 3 week. 
-My jobs was mainly working on the frontend with React/Redux. The project was originally developed on Gitlab.
+My job was mainly working on the frontend with React/Redux. The project was originally developed on Gitlab.
 
 Project description
 
